@@ -1,1 +1,1 @@
-# MU_PDS-01HasanAhmedSani_PDSID_011_ProjectTittle_California-Housing-Dataset-Regression.
+This repository demonstrates the process of performing regression analysis using Python and popular libraries such as Scikit-Learn, Pandas, Numpy, Matplotlib, and Seaborn. The project uses the California Housing Dataset to predict housing prices based on various features. You can experiment with different regression models such as Linear Regression and Random Forest Regressor to compare performance.
